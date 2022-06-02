@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-01 19:39:29</sys_created_on>
+        <sys_id>dd0a3946d57781107f449ca8614fafe8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_shark_bait_shark_cages.x_cdltd_shark_bait.shark_cages_user</sys_name>
+        <sys_package display_value="Shark Bait" source="x_cdltd_shark_bait">ea57f582d57781107f449ca8614faf30</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shark Bait">ea57f582d57781107f449ca8614faf30</sys_scope>
+        <sys_security_acl display_value="x_cdltd_shark_bait_shark_cages">190a3946d57781107f449ca8614fafe6</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_dd0a3946d57781107f449ca8614fafe8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-01 19:39:29</sys_updated_on>
+        <sys_user_role display_value="x_cdltd_shark_bait.shark_cages_user" name="x_cdltd_shark_bait.shark_cages_user">050a7146d57781107f449ca8614faf71</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

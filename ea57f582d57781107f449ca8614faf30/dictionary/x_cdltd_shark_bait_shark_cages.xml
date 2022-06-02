@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb" label="shark_cages" max_length="40" name="x_cdltd_shark_bait_shark_cages" sizeclass="0" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" display="true" label="Cage Size" mandatory="true" max_length="40" name="cage_size" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Extra Large" value="4"/>
+                <element inactive_on_update="false" label="Large" value="3"/>
+                <element inactive_on_update="false" label="Medium" value="2"/>
+                <element inactive_on_update="false" label="Small" value="1"/>
+            </choice>
+        </element>
+    </element>
+</database>
